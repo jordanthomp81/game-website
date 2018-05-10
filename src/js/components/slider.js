@@ -1,1 +1,1 @@
-// Code for the homepage slider
+// This file will contain the code for the homepage slider
