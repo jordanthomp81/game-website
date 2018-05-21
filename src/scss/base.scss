@@ -8,6 +8,7 @@
 
 // Config
 @import 'variables';
+@import 'general';
 
 // Utility
 @import 'utility';
@@ -17,6 +18,8 @@
 
 // Components
 @import 'components/slider';
+@import 'components/header';
+@import 'components/banner';
 
-// Page
+// Pages
 @import 'templates/homepage';

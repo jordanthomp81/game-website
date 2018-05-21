@@ -1,0 +1,13 @@
+.banner-small {
+  background-color: $cornflower-blue;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  color: white;
+  padding: 16px 0px;
+
+  @media(max-width: 1599px) {
+    // if screen width is <1599px then apply a padding
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+}
